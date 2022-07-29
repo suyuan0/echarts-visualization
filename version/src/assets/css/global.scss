@@ -1,0 +1,21 @@
+html, body, #app {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.com-page, .com-container, .com-chart {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+canvas {
+  border-radius: 20px;
+}
+
+.com-container {
+  position: relative;
+}
